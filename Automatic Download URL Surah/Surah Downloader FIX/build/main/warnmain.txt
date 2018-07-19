@@ -1,0 +1,28 @@
+missing module named resource - imported by posix, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named posix - imported by os, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named org - imported by pickle, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named _winreg - imported by platform, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named java - imported by platform, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named 'java.lang' - imported by platform, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named termios - imported by tty, getpass, python_utils.terminal, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named grp - imported by shutil, tarfile, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py
+missing module named 'org.python' - imported by copy, C:\Users\berrabe\Desktop\Surah Downloader FIX\main.py, xml.sax
+missing module named iconv_codec - imported by bs4.dammit
+missing module named chardet - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
+missing module named 'html5lib.constants' - imported by bs4.builder._html5lib
+missing module named html5lib - imported by bs4.builder._html5lib
+missing module named StringIO - imported by six
+missing module named fcntl - imported by python_utils.terminal
+missing module named blessings - imported by python_utils.terminal
+missing module named ipykernel - imported by python_utils.terminal
+missing module named IPython - imported by python_utils.terminal
+missing module named _scproxy - imported by urllib.request
